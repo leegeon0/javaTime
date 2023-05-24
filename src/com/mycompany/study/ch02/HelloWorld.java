@@ -13,6 +13,21 @@ public class HelloWorld {
 		System.out.println("구래");
 		System.out.println("메트로타워");
 		
+		// 변수 선언 : 데이터타입 변수명;
+		// 변수 초기화 : 데이터타입 변수명 = 리터럴;
+		boolean a = true;
+		boolean b = false;
+		
+		
+		
+		int c = 1;
+		int d;
+		d=1;
+		int e,f,g;
+		e=10;
+		System.out.println("c: " + c);		
+		System.out.println("d: " + d);
+		System.out.println("e: " + e);
 		// alert나 console.log 같은 구문이랑 비슷하다.
 		
 	}
