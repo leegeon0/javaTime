@@ -28,6 +28,7 @@ public class HelloWorld {
 		System.out.println("c: " + c);		
 		System.out.println("d: " + d);
 		System.out.println("e: " + e);
+		System.out.println("a : " + a);
 		// alert나 console.log 같은 구문이랑 비슷하다.
 		
 	}
