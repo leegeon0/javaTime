@@ -25,6 +25,8 @@ public class ExArithmetic {
 		
 	
 		arithmetic.pretty("아이브");
+		int money = arithmetic.getMoney();
+		System.out.println(money + "원을 주웠습니다");
 	}
 
 }

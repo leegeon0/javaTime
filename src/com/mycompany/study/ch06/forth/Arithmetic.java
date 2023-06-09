@@ -2,6 +2,8 @@ package com.mycompany.study.ch06.forth;
 
 public class Arithmetic {
 	
+	//public void 문에는 return을 넣을 필요가 없다.
+	
 	public int minus(int a, int b) {
 		int y = a - b;
 		return y;
@@ -52,5 +54,9 @@ public class Arithmetic {
 			System.out.println("다른사람은 그냥 예뻐");
 			break;
 		}
+	}
+	
+	public int getMoney() {
+		return  10000;
 	}
 }
