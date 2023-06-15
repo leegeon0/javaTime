@@ -6,5 +6,6 @@
  *
  */
 module javaTime {
-	
+	requires java.desktop;
+	requires java.sql;
 }
