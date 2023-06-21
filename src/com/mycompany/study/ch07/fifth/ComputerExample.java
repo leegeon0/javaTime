@@ -8,7 +8,7 @@ public class ComputerExample {
 		// TODO Auto-generated method stub
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.println("원의 반지름: ");
+		System.out.print("원의 반지름: ");
 		double radius = scanner.nextDouble();
 		
 		Calculator calculator = new Calculator();
